@@ -4,7 +4,6 @@ h1{
 p{
     background-color: red;
 }
-se
 <div>
 <p> direct 1</p>
 <p> direct 2</p>
@@ -15,3 +14,8 @@ se
 div {
     background color: purple;
 }
+p{
+    bg-c:red
+}
+<p style="bg-c:red">
+</p>
